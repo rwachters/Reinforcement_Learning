@@ -5,7 +5,7 @@
 
 This project was created to make it easier to get started with Reinforcement Learning. It now features: 
 - An implementation of the [DDPG Algorithm](https://arxiv.org/abs/1509.02971) in Python, which works for both single-agent environments and multi-agent environments.
-- Single and parallel environments in [Unity ML agents](https://unity.com/products/machine-learning-agents) using the [Python API](https://github.com/Unity-Technologies/ml-agents/blob/main/docs/Python-API.md).
+- Single and parallel environments in [Unity ML agents](https://unity.com/products/machine-learning-agents) using the [Python API](https://github.com/Unity-Technologies/ml-agents/blob/develop/docs/Python-LLAPI.md).
 - Two Jupyter notebooks:
   - [3DBall.ipynb](notebooks/3DBall.ipynb): This is a simple example to get started with Unity ML Agents & the DDPG Algorithm.
   - [3DBall_parallel_environment.ipynb](notebooks/3DBall_parallel_environment.ipynb): The same, but now for an environment run in parallel.
